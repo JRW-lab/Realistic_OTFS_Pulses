@@ -1,0 +1,2 @@
+Human BB: 1.4510 Hz (dehydrated and not)
+Human AB: 1.4860 Hz
